@@ -1,0 +1,10 @@
+/.DS_Store
+/.classpath
+/bin/
+*.classpath
+*.settings
+*.iml
+*.class
+/src/local/*
+!/src/local/package-info.java
+*/target/**
